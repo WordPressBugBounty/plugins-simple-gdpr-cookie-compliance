@@ -1,0 +1,1 @@
+# plugins-simple-gdpr-cookie-compliance
